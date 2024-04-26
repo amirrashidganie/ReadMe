@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirrashid1" alt="amirrashid1" /></a> </p>
 
 <img src="https://www.fullstacktechnology.com/wp-content/uploads/2020/10/web_development_2.gif" align="right" width=400 height=300>
-- 🌱 I’m currently learning **SpringBoot, Flutter, DSA**
+- 🌱 I’m currently learning **Redux toolkit, Nodejs, DSA**
 
 - 📫 How to reach me **amirrashid982@gmail.com**
 
